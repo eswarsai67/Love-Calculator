@@ -1,0 +1,25 @@
+body{
+margin : 0;
+overflow-x: hidden;
+background-color: #C6B4CE;
+text-align : center;
+font-family: "Recursive",sans-serif;
+padding-top : 2%;
+}
+.rows{
+  padding : 3% 18%;
+}
+.cols{
+  padding : 1% 2%;
+}
+.box{
+  border : 5px groove;
+  outline: none;
+}
+.image{
+width : 20%;
+height : 20%;
+}
+h1{
+  font-size: 5rem;
+}
